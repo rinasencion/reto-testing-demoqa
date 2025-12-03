@@ -1,0 +1,23 @@
+Dependencias de Node
+
+/node_modules
+
+Reportes y logs
+
+/reportes/*
+!.gitignore
+
+Playwright
+
+/test-results
+/videos
+/screenshots
+
+Archivos de la IDE
+
+.vscode/
+
+Build artifacts
+
+/dist
+/build
