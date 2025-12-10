@@ -1,0 +1,14 @@
+{
+    // Habilita el Model Context Protocol para que las herramientas de IA accedan al contexto.
+    "github.copilot.advanced": {
+        "debug": true,
+        "mode": "agent",
+        "modelContextProtocol.enabled": true
+    },
+    // Configuración específica de Playwright para usar el agente de Copilot
+    "playwright.experimental.agent.enabled": true,
+    // Mantenemos la configuración de Ollama como un placeholder, pero la lógica de comunicación se elimina del código.
+    "playwright.experimental.agent.baseUrl": "http://localhost:11434/v1", 
+    "playwright.experimental.agent.apiKey": "ollama", 
+    "playwright.experimental.agent.model": "llama3.2"
+}

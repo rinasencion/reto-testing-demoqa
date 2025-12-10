@@ -1,0 +1,167 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [ref=f4e2]:
+        - link "Advertisement" [ref=f4e4] [cursor=pointer]:
+          - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjssntSJb5hUH-zMcK-CadGys4lURFP3XLq1QYgq7qtCvy_z0DvZ4f6iESn9RndT6iSyRlMcCc0palQj_p4PjV1LkxYN7rTOK2rmG2eqH_9DZ2mirSi7VtDEOWJ43P87CEzIgk7tBR1BacFkimVzlDsriygFXvsopcGihWo6C6B9cKd5WrfWbMjxRMnYsQQ6jLyOcbNToqteOuRNJ7tMuC3I_GCgmb1b0LztGZafAbD7X1pmqI6NtZByfv235iyiJI2BnMIbrfX2XJZU5TzK3rxve8hteBPfEGH7YpKeziAeabkmvkriSnltZK8R5MpbUkLCY-Ruf-9mXc6YYNMpUEe1H1SsjyWtlOWti6qXT6a_6uX9JAnCZVMw1zNICtLR661H4QS9gnOoe_xE0n2nPhSB2RZFOPJfgLqsrAQC__MY1d8XET0Ojqvn9zE26Yg-GJaY_xiDrErEoPtNoanvvSRVo__3EutEkurpNGmNmaXRT1RNfx9YuJiJEMZhMMkj5QvlhEImK8WJdn8I1ABca8EThFGksMn6bD-WS5a4Y4H38GBoiTL_njtfXOXmYmubctUCvDKV2YdZIl8P75qHhctQML9wfmkreFZlthJnY3cBmLC4x50my-wXOIBjAmRjq_GJRpgDfWllyIWC_SpOWEL7vUyV8az7LTx0uyG2I1MPr9FOY3wi56vITogSfpPBO6en8JP9FhjLHTUX5Fr8ekpz5ceMQQN9SWEXJdCbHGwCsgvtmrq8LPTq7nWtfMtgqzsK90IPTpYYjn0rq2-rdCfjMpno--BSSioTXEjuEOvLugVrq5ekHzFFqcv1j_6Em5dYn8btuSbvacI3xOsQAHPCd0GDHEn2KSi5bmWBa43gpbfMNwHhNR1OYIL2VG1wNJ7Weyyo5OHU6KOeM6gtJcQVcTI_xmRHwf90ZVCsVccDa5eXDJi4sev02GJOJAxQqoYNHAb8P6rzrmGPb_BcDAoE0vsgB_HhRWenJfnewoJ0MBPYV2NDmW5Cf7BJKBnOviKZYrWY59g85n6B_jJba7WiqZTnX_vY-qj0EBqZBDlXe398ga4cmoVv-0MkRbI8G2uaTS_VvWOA-0TI7SgtK1ZROSodB1SnJ3SOe994FapSIIBEr7m1ZKBmvOSOe-Qwgf_vx5spiikORMadktDVxrymKkpdNKx_hyOcfwwld2lnsY3wmqcFWYQaS5qD-ZFjYc1ZhHzt8MUDgQXBMKdpTbrb3ZgikZnJJrzOQCwtTzdKaGsT8RjYgbYTVblNEgMds0pjHPYNTaVp78qfwQUWiEc2csKU7THTy4H8x69699QZU5MM3cvDgSICpcSqoXGgALl4sBERTnuQNzFHhFfQc5snjdgaLdfFFrFEN6isWhHqudvIi1C633Dx_pwP-U8V9m5v7a9YaAwqEn_Q3N_YaSdndmbHU1WJIQJWQ8ba0xRltDKaSBHNb4YZCqQI40WBLaV2RBeVHExSyrKxIYRiXK2sfh9qGUS7UcyQ_FAqhcmVwtG2Z5YyzkTq3suAPQrtlPrypSnB53j3kZT-jsT79dWLET3CVSv-dQkhkvxYCeS7baWP5qX5yCX6118hLtedUOpTdvsAfUzP4SDCG-U8TF2GX5a4z9WraPC2mb7k83FTYnEaBcB7NaYlDrxC9BVGd8gOhIDxdCwY8XBjut2n1nWQUEREcVt4gofUuOHaz7z02mGnQF3aaFaCbekaX5BkLMlqrE26YdsYcemfqHDNAsx6rX-oGswP2zbbhDftIH2o-OespV1azrccXMwZNGeljF4W10Z17iUyFbL9VnyerXNraA5Reot5kQONTKsWjH7CSptfQERcbemo7v6XXRP93HWPR4tMPVyp_AZw371xr4n2DZy4aDwJXqkhg0z7Apt2q9RRQrNLLZfUdWqjpyHHCufJdP67jaZh0Z-kYOQswLNuYJFuOiHdF3LCyR99fwTlOG_6DNmD-WszL0MmSYq-joCLWwuZxtHNyqSHfvCy8hPVde9CoF2AnvRSvOHB0I-r7Zerttfd6MFGNzg5VnN09DzxORjYGiNLTtYsrFPLpxcns0sziNZJ4RX7Klrmd4Lyt6Uo3g25jRNohAhZDbx4Geoh-9yBd2X554MqmT912S_Ugliy80b8z_uDt1shp1lGxluyrg1TyJWU6WNqzfvmaaDohEKYlfA&sai=AMfl-YSDmntTSnmtBsaMADJlndH21US1ZlTGYq1zDQ6IQeNYDV2VgFN01dHBr_aYwPeemQlOP8iSfClPGiAuCzO_bxbORb5VWPZFwGdXxMTd73B_tDzZ85SbA9hbG_a3CCSkGRzCU3kQcOqCtW_PZzhpZgeAEGUx2htprH_CwciPt4Hj_kdkwG5IXykd2KeZeDub0CBUMsOcyXdJ9Xi8-cmvVEgFCbmAIYWqguGUTmCYrO2iHBC7oclVpeWv6YCHIfA_O2z79TFIWhTUJstMXWkq4BQe5sZExmW9cZd0IFZMjbYgUfaAxqP7qmgEetBhAyS4Z1z1HyW4f-eCIjrtBbT1cWjMfhrleQdLl8TkD9K-RdPPZfHtP8yUCCwwiO-sB0t64WlDyF_RtE2qTD4sUlK4oWm_k2QT04NvPJVX68zh2gYBLHzT-3GmbFJQtSHCmKT2nMR3FEeDDg_l_3syIrHk2aKR4m2mOQ_YBaioJBOXOtYxpjR_zHluQICVvXQnZxWwbzIVkRoent1rHdFPPG2Vf2d8ufqjJRQO4QBQLfUb6yCd81rZQRCuBDhuZzSHd8Iq-Uk0F0eiTQ9ds6uSuECuBa1qM6hfpT2J6tFFYsasAgrBoQ98xTyO--Pw-rihUMO7oRA4McZNJMmWyGZ-tSI9-sCrhGvFjbWhV9lv&sig=Cg0ArKJSzP-hPc8pc6eB&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9ldzMuaW8&urlfix=1&adurl=https://ew3.io/c/a/barcelo-com/%3Fead-publisher%3D6036455%26ead-name%3D6036455-34591711%26ead-location%3D6036455-434596060%26ead-creative%3D245357989%26ead-creativetype%3D1x1%26eurl%3Dhttps://www.barcelo.com/es-do/ofertas/cyber-monday/%26utm_id%3D434596060_245357989%26utm_campaign%3Ddo_es_pgm_bm_bhg_cybermonday2025-dre-lat-do-puntacana-x-x_co%26utm_medium%3Dpgm%26utm_source%3Ddv360%26dclid%3D%25edclid!%26gad_source%3D7
+          - img "Advertisement" [ref=f4e5]
+        - generic [ref=f4e6]:
+          - generic:
+            - img [ref=f4e10] [cursor=pointer]
+            - button [ref=f4e12] [cursor=pointer]:
+              - img [ref=f4e13]
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]:
+            - img [ref=e25]
+            - text: Elements
+          - img [ref=e30]
+        - generic [ref=e34]:
+          - generic [ref=e36] [cursor=pointer]:
+            - generic [ref=e37]:
+              - img [ref=e39]
+              - text: Forms
+            - img [ref=e45]
+          - list [ref=e50]:
+            - listitem [ref=e51] [cursor=pointer]:
+              - img [ref=e52]
+              - generic [ref=e54]: Practice Form
+        - generic [ref=e57] [cursor=pointer]:
+          - generic [ref=e58]:
+            - img [ref=e60]
+            - text: Alerts, Frame & Windows
+          - img [ref=e65]
+        - generic [ref=e71] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img [ref=e74]
+            - text: Widgets
+          - img [ref=e79]
+        - generic [ref=e85] [cursor=pointer]:
+          - generic [ref=e86]:
+            - img [ref=e88]
+            - text: Interactions
+          - img [ref=e93]
+        - generic [ref=e99] [cursor=pointer]:
+          - generic [ref=e100]:
+            - img [ref=e102]
+            - text: Book Store Application
+          - img [ref=e107]
+      - generic [ref=e111]:
+        - iframe [ref=e114]:
+          - generic [ref=f17e2]:
+            - link "Advertisement" [ref=f17e4] [cursor=pointer]:
+              - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjsujKYYtgIeTTUkgKKtrlk5n6wpUXdfGeu0rPxH56luImHZdFin4VSVcTKDCWoH-AJBMRDMejSDjaLqHeL0KPyiJsKfcuUZwZcMR8dTJvUWPMVjcbjkQttk5wuy4x9JMy51zpS3J7W-2xKSnNH2U3E3EmxyCYDsqnsUwA-vhc9Bjgusa9XHX76Yp8fAEW7eVmA-Q_ZcLDpC9VkJyDtEvCkRNXN4unjaSi4enAkRpaSJNxHy977PE74RqCNyQdetOEJvhrBHTgX6mEAKfpB7jHu_zfGJhUfbg3uj1xRtriEXKsFzSjH3wkfYyUtC4ESXSTLm_mV7yAOMrEqvC37mKyvWhIe7DCBpaKvAsJ3AzN5FeHZ3Obf9DqyTywQ4r8-C-gAQzI2U2ThfUtXjLCnH2e1N_Rzyw7jg0gVvBe-AyfkJpu35dU888uqMo5jmtqeX7OZFWxx21Xts948IyvLLhueJOK2M8ojVOQ5H6KodyILHxDodslIW8aNR92fYi_s3I8LtUB4hqos3ZckFGb7WKVRBrQbxbWv49RqiMOQcoohhGBVoep2jVOIOZAqGRyqIyN2F3BfJblRnz5rW04dl2VDXU6BRxXwH3CoOf475YEK1IY_reqz92YlWETRSdNV7RFMNIHdT-LlhQpa-QEezr8nETiYEBFxsL41jpyALh--sUmMA-CHQl9avJC5Bj8DoRo_XM3g5TcyDle-6hQc5yHr2pEswi3pEQIrMbkfbUS3mx4ECD0J9bLc5klTPQeW8xtkUcQChut7qV0sayW42BVTiVqtKAJRryIbxoNWvjLdmigX1mk9wrKcKxpWZWTFFsoqHkgOC0bkZkSGeOy-DpuuhNm-yFIgeJM12STbsk2QiS-QcYHin7J98XOuDIaais7dSbtgKVspIoZORnCGi8Ko-stU2su9fE-ul0_ijTvvTNeh_MivD5e6qgfi4uE3LAl8xQu4dQKOZBFp47jrJps3z8JACPoMa0ouNWUB5pwCiAGtjGksgxaNOa5cz2UFxvh5gEVeFaqi1U4cAfYYwPHUUw_ibaJb_73BqqwX9Eqv6DclAaQ_tRtoZAl2jfG6axyVs9VRz8lJy9fthzIzFvak1O20bMxn5dHe9xokLnDZcbgGHxlqbzhpiINMw3ZMKTDbMAUWeYHvJlaT0veAM38fAUuMBldaN5YmGkPJ6goWyLS65YqRAnJGOQ6G1MelDt6zOlEPro5aYlU72N2AaDnYO_y3rPeJwAp3EV2bXrWQ-n4PQuEb8fbOAy-PYCl8YkV-o6VDa3WZC8H81_xvgj38xvLouyz6i4Ynzort2XQttDj8wbPT49rQm5VYC9Fjl6DzrO7-Z4CKQvQIhkyqH4QDqbwm1U_F2fNvW1ofsKPMLQTZIdTwUdbhBeFQA0X7dAd-asCUxXJXSSou1gC6LgH5USoLYCuWnkI7oTUtkznuhWqC91yveBGBw8O238NQlDUjzeKOW_u_mOzxi1AJ5jFH4U8yeMr6irOK0AJJs7rStcJkGs0T0uYLsUu1F_TD3eha3Sl8Q3WVQ85P2oGKfmyXS9yHH42wq6p1aUH7YnzxVo2MmFRyPcC18lcYaiUwRivESBktt7PeG8jEdP9WHZ6KhZ-DrnvAXN2pt4r8H2AyMQcxtVm37swHw1vfuzoxYA98FlMrWrxqlCGRe-7jhZ5PHEOtZP0f-w38XX8qEcGZJNtdqJFoPQhXIHH9u06u1-lafCc59ZXlu8tTiurAa2evtgh5tNbxvdeAdPY69oUmYjX5g9Az2jfIVpz_spe8BEdfRkcd6-Px0K37uKMMLpSjwRS0yzkaErOGqgiawOMsgGWH8Y9-XsfpqU9hRalK3ExwDizGkQo1WbRzSTBxCtDwAg1h_HWsjYS3NALyLpRdJT1FQK9vVjChXz_XaoLSjpGqHO9T-vOFfkzE6xg97wx4dXCgisw4TsqwqnG6_lhzWziAu_-jcd1igLqrNUPpkAP5wNe0l1sHFbDU4kNmzr9XumoszGq6iOr9QUteA-u_m8FqlNFe4c7ZNtibBdsw6dd7Jc98Q1NCxFKOiNgx7cdwJ-qfFxuDYmCrw6SiSir1VvqmJ1N9DfRnjwdAl5gizBtNJUI0hx7371UoSK4t9Zh0H-AksEjMQfk45tQsSDr9O_517klPAawhWnEjR16_H381N4CylL5AvR-VpORKsgMuc&sai=AMfl-YT55xOlm1ysyD1jugN0jnN1hponXN5SLHuaNKv3Cc2YPKE8ghNMbPLvZm1iqzZ7Wb9m8nyqYs_vbCP-v8DcifHZy1WLAkasVqwejV-rZPDTJ8W4YKZu14cz8A48eaXH8UxEBPmhXZBoO0aBYLsS2oHVgPi3acd7lLf25txziNPBStOh6lZ75JZvQzFfPqaT5aWuuxUd2Wk4cPPauRqNC21mJj6yONnhB2P4b2fKTYmqpjWASUcXhzLuIQnX1UBZ1XD2hB2SA3xs9rNunk2dNV0VyaE-Sv3LLg29WgaV_Z62JPc01OWyQkaDEd4bPN0ggJTnUye2ybGByUPss1IejPudjdqfU97eiUZlIT48gTQ0GnOlsX1AfXH20fmLqvMD14xDp_51lNT5qVi2P7CG4lQC0Kbr3JwsyP_Otz4GlGnxee-DpIYaclT82TbSesSYwgCNtZCNrQH1h9_ecIQAXT4vzsdVAqjIVxb_z4dY6kyHOR-W1u7SBEAPZSI5DUWoWkXdFate1LIs4hfF2K8D2CMA-YGsHr4iDktuM3PoOGl4HHLIi38BLqoZnXJd3qiMnAPqFC1pLirkQab0NA4JecFvswuCb5_Ud8vqtOLElw&sig=Cg0ArKJSzIIm2fzwIZj1&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9ldzMuaW8&urlfix=1&adurl=https://ew3.io/c/a/barcelo-com/%3Fead-publisher%3D6036455%26ead-name%3D6036455-34591711%26ead-location%3D6036455-434596060%26ead-creative%3D245350046%26ead-creativetype%3D1x1%26eurl%3Dhttps://www.barcelo.com/es-do/ofertas/cyber-monday/%26utm_id%3D434596060_245350046%26utm_campaign%3Ddo_es_pgm_bm_bhg_cybermonday2025-dre-lat-do-puntacana-x-x_co%26utm_medium%3Dpgm%26utm_source%3Ddv360%26dclid%3D%25edclid!%26gad_source%3D7
+              - img "Advertisement" [ref=f17e5]
+            - generic [ref=f17e6]:
+              - generic:
+                - img [ref=f17e10] [cursor=pointer]
+                - button [ref=f17e12] [cursor=pointer]:
+                  - img [ref=f17e13]
+        - generic [ref=e115]:
+          - heading "Practice Form" [level=1] [ref=e116]
+          - heading "Student Registration Form" [level=5] [ref=e117]
+          - generic [ref=e118]:
+            - generic [ref=e119]:
+              - generic [ref=e121]: Name
+              - textbox "First Name" [ref=e123]
+              - textbox "Last Name" [ref=e126]
+            - generic [ref=e127]:
+              - generic [ref=e129]: Email
+              - textbox "name@example.com" [ref=e131]
+            - generic [ref=e132]:
+              - generic [ref=e133]: Gender
+              - generic [ref=e134]:
+                - generic [ref=e135]:
+                  - radio "Male" [ref=e136]
+                  - generic [ref=e137]: Male
+                - generic [ref=e138]:
+                  - radio "Female" [ref=e139]
+                  - generic [ref=e140]: Female
+                - generic [ref=e141]:
+                  - radio "Other" [ref=e142]
+                  - generic [ref=e143]: Other
+            - generic [ref=e144]:
+              - generic [ref=e146]: Mobile(10 Digits)
+              - textbox "Mobile Number" [ref=e148]
+            - generic [ref=e149]:
+              - generic [ref=e151]: Date of Birth
+              - textbox [ref=e155]: 02 Dec 2025
+            - generic [ref=e156]:
+              - generic [ref=e158]: Subjects
+              - textbox [ref=e165]
+            - generic [ref=e168]:
+              - generic [ref=e170]: Hobbies
+              - generic [ref=e171]:
+                - generic [ref=e172]:
+                  - checkbox "Sports" [ref=e173]
+                  - generic [ref=e174]: Sports
+                - generic [ref=e175]:
+                  - checkbox "Reading" [ref=e176]
+                  - generic [ref=e177]: Reading
+                - generic [ref=e178]:
+                  - checkbox "Music" [ref=e179]
+                  - generic [ref=e180]: Music
+            - generic [ref=e181]:
+              - generic [ref=e183]: Picture
+              - generic [ref=e185]:
+                - generic [ref=e186]: Select picture
+                - button "Select picture" [ref=e187]
+            - generic [ref=e188]:
+              - generic [ref=e190]: Current Address
+              - textbox "Current Address" [ref=e192]
+            - generic [ref=e193]:
+              - generic [ref=e195]: State and City
+              - generic [ref=e198]:
+                - generic [ref=e199]:
+                  - generic [ref=e200]: Select State
+                  - textbox [ref=e203]
+                - img [ref=e207]
+              - generic [ref=e209]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Select City
+                      - generic:
+                        - generic:
+                          - textbox [disabled]
+                    - generic:
+                      - generic:
+                        - img
+            - button "Submit" [ref=e212] [cursor=pointer]
+        - iframe [ref=e216]:
+          
+      - generic [ref=e221]:
+        - img "Build PlayWright tests with AI" [ref=e223] [cursor=pointer]
+        - iframe [ref=e226]:
+          - generic [ref=f7e2]:
+            - link "Advertisement" [ref=f7e4] [cursor=pointer]:
+              - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjss50J0h1REhkpbl6uSdoM09ZgVqtIfuwYuljYvbCQ9r-BszS3r68HUG732o9a2QrECKbrPpKb2Mk513A_3oTi49hMOVenxnNC1J0_xJSHsRfjWTCeSH_MKFy_a7P5mY9H-5B5GwEXoW3tA3S69Aw9CRY4khtIIET2UdR3ODGlkJOLevr99vr4dWPrFlKtod2GkWCilJwwlS46igDLec4ChiU-_-ZKYJBGRoJVXLiJMPPadfjp8TR4zVV2cT9JHumtm7J1UAdb3JfP4T0hCEeuEjl3It7ihA5fdnrpb-5q88qvj5HDw6R7RSHPBsoVabqOFa2OMFdjSJBX8nqa8vinMZ0GFeT4i7lUcQA2KvcFFp9EkVc6H1hVIaKCc9YErRGflm-IfI_4GeiKQX5yHjefbAaAagiR9-sac4-3r4-bIQEfecxF6w1ru5Z5fiqQw4hplf1Yd_r8apBQ2TnY6VK89yZR-A0ctUHKcqMreZ-rO0ktOZtxVHnvt_xRNqhDEgABlB7MHCgDielQ2G3NO0SXvzBbg4bsYdaxyXkP-FrgFGkHSks8EJl2CeX6uYLKzcFqXhjaKeLMIyB1yb32O9hL-9Qo8eQQama_X7Jv-M1i9A-p3I2f2ham6IAiJxKaH9e90RkQO69YTORyY3jnum_6Y-VWnu7snWNLmLNOJJgIGO5fZB6N0AvymQFG1tZ2xgkwwTbsdMcLgKx0GW4ZCMwuoBxB74rVfkEaPZUt-mt21FUeCRhyl6BIcc6UpmijMxH29Yc-Upj1PrZ1aRZP9_UxezzNIzLWOc9qv3Id4b-vaQsfxvr2Yqs8NNuJQhDg9Sy6f5DYCj42te9_0_pP1o0H2LDxF0CqR6Ds_5DFCxzyv6q4yfOucUpwaylTVHHbpC1KXMGx2mlVitXaeQCtGdbol6n9a9sKyCcow3xnPjO8cogQZRj9SpZPYeFNB7GVkTARHOK4iqFTS_D4b_Uuuqtd31VvYWaYH8dgpqq_SPWGR4f_ttnFk_EMXeJ-yN065N51kTz8B8OoA4Gk1555rrGAPmpbkL8a0-m6oE1vMtDYPX0_QSWexYewqIAGzMcGIEPpv1CL9SkKxGg-g1IkaeAwefXufjJyX5_rqh3QL0uRGg-8QCbFME8vp4FDIK5aIr8S3c-AXZnEL7X23vzGKyDByw_c8F2bFecip74KUkU_PFQQcXC8WMrrpSd12ygD-X3Xf0MP_KEnWBObOxoCrF1clI8eBSGHEVooK-8BItoVYHf1jUN6hkr1k3BFN7uWkT5RewkbtfC8F7wkOKc_Dz5fi18ZsP00LishH0-Fn9JDKm5EFZ0-R1-8YMi7ubdAFVfioUpnho3g8ifxDtGAvTDsViqXymKgM153MT3oPquVBraoufwauDl_R-SJh6SISW_KJPT_-CXms-MeU-jttuyajHsn8V6liENeFnLh_I5RSWP07Rw9arkMbiykV2eDMRaY2zJh9FpmK3E0JF5oRnlVHVt_hz8TS6ykwPn0SNBofSy-Gx0AQbd3C2NOOeiJwkA755en_fzjGjAPq9uTYvoaGACC_CqENg2lWEHQhIXm7cB4m7-WClGAQncLKx8BpOT4S0jwh1TAqzasDD_5DGR7-xcfM_ablT0iMjnH-16N-FsDlmplmCZfJ4C0DYLXFT_O8bNyI48LT0jmkTqLp_-UQ72eSVXdBQvCxLyiAnvTXDbTQ7yfS_D7KPSf27dKRstmMerdJTr3Tcxe5dsZFk7opDTxZDZHYw1jUJKTP0ln417HFTCjZREsSB_EyICwIlXyhNM8Tq4WS2hG5cLSyprmDLYQE5Oae6Au6E_V5vlYS5_NoWcSwQrE_T1nwjfsate9ADPCRYP5tHj5Bfm0VZ4myk9mE2PBADl0Q869l8ziP0dBM0bTVyVdMN-iR25mROOHrA26_eiuePTvoFu2FentWMlSqInvbxz6UTztliJu5gRZEE6eTX8vjSpECaQX_o1JfTlaQufWZodf-WqMR_QPdAvVeHqbpzD8uhVnoKDeeJqZ4ACGPWeNg97mjVFA25ibSl7VG6e3h_kxpiE1cbd6WouryUxnKZHC7sZHZfSx5eTD0aA5_63FcKrgLKCQvY8B-lAuU4OSPizQZei9gVodKZqb8Pnj0BDVHo__uAmCfTfnBHz9RyuTvJhfk3Nw1S4igZqkoo5VS2mjRy7Q&sai=AMfl-YQlvBDmZY2fAR_IzTDtHQ07fWTmso23Y2pvi40G-ouF2FTXuM9LcaqOTpz646YQj7I8MlYao8mjycoK81IvElqi1MGV28FC48cSIlSNLz7cFTefj1BdsKZ96z7_ejfP4X7qmJPyoOR4wPbF7A0GJOLDkf1Cs_XhayYYAGkuL8lY5up41mKqIM5wt4zwv1cGNf7uCr4SXOTD7Lk8uAVNnDO-2oXLIBt1mKUFmT58XWPoHlSX2Kxtr9HOOzEkmpe4XBQpXRZo0ZTkImHbPlI0imZah4jUvZKQWwu-kMPNd_7MKM74YI18gg_KWqfH2g5eYh4udslYF1B-CH8zgL6hbFf1QPzelwrk7wh_BS-rjfVHqz7o_tGWG6kerB-UNV1ZtfBbFARQHskYIv_Kf9Hw2vSX9_Cn78-88IyHdzzomenMJRSo-A5VexgNR4gnOZ-m3dTrP_kjKbemsFvgt4sdsTJYi4AVT6prjbyj-bkmfhiMreKH-pQsCv5LvNLbShlTFNgFXMHTDvcQnA3x8uF4D0QOxlp0Zc-wTqLDNZ4-galaiUdBjmPe_5foc2E9aY1xoOC8McHEeO1gWUbDHjCjQqf3B3A0KEcarBTW4ow&sig=Cg0ArKJSzAt5gq0IxV6_&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9ldzMuaW8&urlfix=1&adurl=https://ew3.io/c/a/barcelo-com/%3Fead-publisher%3D6036455%26ead-name%3D6036455-34591711%26ead-location%3D6036455-434596060%26ead-creative%3D245357722%26ead-creativetype%3D1x1%26eurl%3Dhttps://www.barcelo.com/es-do/ofertas/cyber-monday/%26utm_id%3D434596060_245357722%26utm_campaign%3Ddo_es_pgm_bm_bhg_cybermonday2025-dre-lat-do-puntacana-x-x_co%26utm_medium%3Dpgm%26utm_source%3Ddv360%26dclid%3D%25edclid!%26gad_source%3D7
+              - img "Advertisement" [ref=f7e5]
+            - generic [ref=f7e6]:
+              - generic:
+                - img [ref=f7e10] [cursor=pointer]
+                - button [ref=f7e12] [cursor=pointer]:
+                  - img [ref=f7e13]
+        - iframe [ref=e229]:
+          - generic [ref=f14e2]:
+            - link "Advertisement" [ref=f14e4] [cursor=pointer]:
+              - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjsv7eBNVcFCFxkEXrTySkNu79W_Obie04pLMwlqHpWIKCncsU6aKEJ47WOh5mXxWcA-fZ652OwepuVYjxW25T4xdqITtqMA8f7cVsjdV27t4-sXw8PyXNSB7SvAKuZireLMFQUmKorxAXAj0khEpDZ_jgkTe4sjB62tVnjZdvx0OSagV_1Ag7b5MAthN7wRGDwVBM-IEaVU_rHr6vqs4XgPMM04GqW9bUrGjAu8mrhvny-t10iilhZmTk0RUH1tVXnZgzcL1z2kZlMVBAlanN3H-Plla1NZdYy0fTR8a7ycv_epvJwDIIVU6wDIfkB2M1dYxSEgxRR4-O9aIW4OCdBPB6NnhEkZBPyQYcBtmHJ2SBkVC43s_bd8kvSKa03jUC--xq7giFABfbkICr96uNszDOGUtUQHxXoWiu0E3dEkpO7kPoKAwVdVFhsOzfZRdyqWLNcKNsOKri9kuJesJ7pooFjxJ-nMECsRtsVkDS9vI7ZVkXF63GWvTiIMeyaR1VXjgWyfCNy45lZhAN-bn6x6yb3Oj2T-lvmIJLzVhAxKcJoqOya5KTaZu4Y7pmdhKiNoSM3EylWETHcTRUVNZyBA5NcEbcnlKss8Tg5qABcJTkY1Vl96SiZzNTctzwBhqBV92-jsZfMlFSKKDg-mbSzaldQXHnmdsgjvbJ0ynDhv69J7dFlSWBfNRKTIvOjtWiqw25StAS-OB8Qgu6UhLxFqElK_ivtEW4bWTb9l8wHFotyEEEdMfdkhQPe7MNL7X37jhTEVSYUJ01N-eNXe5aROwxb03y-P-hygvLmKWiApp0pYIjDPY2xpt1r_PrpEh-2s4W65qOPTHHIHlkx53YSM63y8Y9YC4-KONzqbwe687bxCIKMBBa6k7UWNbL1c_7jmVZiMax9bP5abv1pYqmGiDeFY65Vwn8O7Tr2qmtrKtUVfhP-Y0yopAQ68d2M8T8N42NpzSFeEeL-NR1blKgK2GYIT6xOk3eVsk1JEp0wFwe5vm8D5swhNEiGzA-QirxDtBB5NG32RB86BUzIWOSaXuwSwpPyHjvJT4sJnPVWuCJEZ1IlR92JCsjydcKbGUogstCNxv41Np-asilQUKh35fR6Zo6TpyQ6hod3F7ieqoihYQ22Ew8N4oLfcerEn1qMhE5RG6Z0k8vMcA5zdtTqY5ertnvRoOfyafZnTFiyzX6OS3nExw8RuMi5d2YRcc1Ht8izhO69Qmn9Yxw5FBb0Nt3RBmP5MB1fsPdatYVXWY5bbRFyDZuvFdp13F0BVDICqBG65dOYVdvJKFGsy6xAgwzBWWf90ggImOhhuvznY9HH3Uj6yEMjGQUDoME1hxG8jXgNgz7twKs-CVTVXma1dKGbB6ma9UfhC7_roVA73ZmNz2kSBocQecQxGzPc2QmCIpghtkn_JvLWLoYmC0BwSFVvF7dMz_p3VtW4h-GirPP7Ea459ztzz95TuZ5LwizXW4zDnw0GSAmO39DRj7tIaBV__XL0Bwcp6YvYNuB-1LrEJBuoF8AZplN7e_gaO01DgTYD2vyk8QkEwrg3_op78Lczujj6KhUfISIE62l1W8NW2BqZ6ktrqljBL2_zq0w1WH8eJbFWXwRtxxzVyvMNcw4BolCTM0ZBhkdSaGBsBlJ0bhycKxkyEO1digWo2fc0Zq2e4tfShNJyDePdT0GKRImuLVHgaQl8h2XbxgWivuE2NGRMKdZcrXWfemWY_WCah1OMpE7qmqsCR3xY_vJmS9vo_tc36vFDaQW1tl1X_tIK6LKwo4acEvfY_otaP0N0VVKHjmWe1XPgFau_yVu-jU5NHSG1w685_D_PhebhQK8KcuuV7IEc4zNFKH3fl-1bdH-W2k70n8yj_eOFujW9viMo_5YCOBmMFBgLCGkR10G4qxQxCApLOpmQ2b7DDpDiyCBgZ8cr-W6mbfWiR6eUkle6JdTXsasV5ND112JNX0cOclpCh5QYg9UV6JTGnFpxf1xn_4iBAdks76QCpiNmM9EytHX-9ru-ISTWZdEAqiygfC3ik8NeJeOMoJi2xshvyAnqSvW5y0HMyYGbMMrDH0S4RIkpl9D6P62KOVJNWEwyODy9cii_MpVnmbOrgGGQ3cCArHRJMCLKt-2YbeyboEbFi1ST2UX0EyItIjvxx0ErQv8oCK7m8RGzGRaJhGTQ1j3dUernXGjEwydQ&sai=AMfl-YRAbQ52ysoAeEE4E3mAcU55Obcu7utmXQTEE6esn97aqlwKfZDnzRW2DxiVRIaDdMcM5C64CMnkXehOnqJxAAWgzXCIe-nJBbRbLiDOcok7cd57kzpmOLAbcDYS2PvVU3VIyCnptcx5a9WFsnV5BBHhcB6r267peDi785YNJWUNJ1eJRUhQK0B8dLCqf_NFZSuov5HDG6ADVx_G6jlhplRyfHDy_XxFKgvAkAt5yB3v511wrnUd69vA5P4fPb1NqnoliaFkTbo85eCfCHj-Zh2f2ge0hQxDkOc8iZRzlKsZI_ZpkWTA66Oh-_8mFoiNPOLDbQxzNlo6nBThA3z4IQWiVLFO4wjXRMWRnwqixqgsP8m2tUVyr1rZyHxW4mR22OBbpmnUxUpMfyf4OoobmO4X3LpDS8KOnY4wRYNpw4Qm_BySSFC4wRfiyMhWQG_RM6lzGQGtK-g2fMCEqiY1CwRKhK39slVR-az6KI3C_Y1B1Of8cmgKsEHhowio59GeQ87_sRUJjIb4Dm3MbRCDbChU2jje0en2CR9D94_5VyGBAJi4jQ2ZZifmOgkZ2BBtQDOpCQvGHLiHTLO_XtP5DvTTcXIBuKWHUWs-K2Km6g&sig=Cg0ArKJSzInN-3EZwsCp&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9ldzMuaW8&urlfix=1&adurl=https://ew3.io/c/a/barcelo-com/%3Fead-publisher%3D6036455%26ead-name%3D6036455-34591711%26ead-location%3D6036455-434596060%26ead-creative%3D245357722%26ead-creativetype%3D1x1%26eurl%3Dhttps://www.barcelo.com/es-do/ofertas/cyber-monday/%26utm_id%3D434596060_245357722%26utm_campaign%3Ddo_es_pgm_bm_bhg_cybermonday2025-dre-lat-do-puntacana-x-x_co%26utm_medium%3Dpgm%26utm_source%3Ddv360%26dclid%3D%25edclid!%26gad_source%3D7
+              - img "Advertisement" [ref=f14e5]
+            - generic [ref=f14e6]:
+              - generic:
+                - img [ref=f14e10] [cursor=pointer]
+                - button [ref=f14e12] [cursor=pointer]:
+                  - img [ref=f14e13]
+    - contentinfo [ref=e230]:
+      - generic [ref=e231]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

@@ -1,0 +1,27 @@
+{
+  "name": "reto-testing-demoqa",
+  "version": "1.0.0",
+  "description": "Reto 5: Automatización Cloud con Playwright y Ollama/IA",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "auto-repair": "node auto-repair.js",
+    "report:open": "npx playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "ia",
+    "ollama",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

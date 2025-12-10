@@ -1,0 +1,489 @@
+{
+  "config": {
+    "configFile": "C:\\Users\\User\\Documents\\AutoCurso\\reto-testing-demoqa\\playwright.config.js",
+    "rootDir": "C:/Users/User/Documents/AutoCurso/reto-testing-demoqa/tests",
+    "forbidOnly": false,
+    "fullyParallel": true,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 2
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "json"
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "C:/Users/User/Documents/AutoCurso/reto-testing-demoqa/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 2
+        },
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "C:/Users/User/Documents/AutoCurso/reto-testing-demoqa/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 60000
+      }
+    ],
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.57.0",
+    "workers": 2,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "01-text-box.spec.js",
+      "file": "01-text-box.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Test Suite: Elementoos - Text Box",
+          "file": "01-text-box.spec.js",
+          "line": 4,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Debe rellenar el formulario Text Box y verificar los datos de salida",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 3318,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Navegar a la página Text Box",
+                          "duration": 2243
+                        },
+                        {
+                          "title": "Rellenar el formulario",
+                          "duration": 503
+                        },
+                        {
+                          "title": "Verificar los datos de salida",
+                          "duration": 30
+                        }
+                      ],
+                      "startTime": "2025-12-10T02:43:44.991Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "95846e4ab8faeff61954-bf286ab43c10825ab824",
+              "file": "01-text-box.spec.js",
+              "line": 6,
+              "column": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "02-practice-form.spec.js",
+      "file": "02-practice-form.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Test Suite: Formularios - Practice Form",
+          "file": "02-practice-form.spec.js",
+          "line": 4,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Debe rellenar el formulario de práctica y verificar el modal de confirmación",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 1,
+                      "status": "passed",
+                      "duration": 7145,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Navegar a la página Practice Form",
+                          "duration": 1996
+                        },
+                        {
+                          "title": "Rellenar datos básicos y contacto",
+                          "duration": 627
+                        },
+                        {
+                          "title": "Rellenar Fecha de Nacimiento (Ejemplo: 28 Febrero 1990)",
+                          "duration": 871
+                        },
+                        {
+                          "title": "Rellenar Materias",
+                          "duration": 1239
+                        },
+                        {
+                          "title": "Rellenar Hobbies, Dirección y Subir Imagen (opcional)",
+                          "duration": 70
+                        },
+                        {
+                          "title": "Seleccionar Estado y Ciudad",
+                          "duration": 1144
+                        },
+                        {
+                          "title": "Enviar formulario",
+                          "duration": 84
+                        },
+                        {
+                          "title": "Verificar el modal de confirmación",
+                          "duration": 740
+                        }
+                      ],
+                      "startTime": "2025-12-10T02:43:44.983Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "3bf0cd194ca124669eaa-001ba2c640d624b76ff6",
+              "file": "02-practice-form.spec.js",
+              "line": 6,
+              "column": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "03-drag-drop.spec.js",
+      "file": "03-drag-drop.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Test Suite: Interacciones - Drag and Drop",
+          "file": "03-drag-drop.spec.js",
+          "line": 3,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Debe arrastrar el elemento y verificar el cambio de color y texto",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 4683,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Navegar a la página Droppable",
+                          "duration": 2806
+                        },
+                        {
+                          "title": "Capturar el estado inicial",
+                          "duration": 249
+                        },
+                        {
+                          "title": "Realizar la acción de Drag and Drop",
+                          "duration": 979
+                        },
+                        {
+                          "title": "Verificar el estado final",
+                          "duration": 181
+                        }
+                      ],
+                      "startTime": "2025-12-10T02:43:48.528Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "de31ba4a3a2507a03a8f-c06f155c8a6cf8d4616b",
+              "file": "03-drag-drop.spec.js",
+              "line": 5,
+              "column": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "04-alerts.spec.js",
+      "file": "04-alerts.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Test Suite: Interacciones - Alerts",
+          "file": "04-alerts.spec.js",
+          "line": 3,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Debe aceptar la Alerta simple",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 1,
+                      "status": "passed",
+                      "duration": 2773,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Click en el botón y aceptar la alerta",
+                          "duration": 86
+                        }
+                      ],
+                      "startTime": "2025-12-10T02:43:52.364Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "ec0a06691cbd90937218-ae5a4ce955a522230d53",
+              "file": "04-alerts.spec.js",
+              "line": 11,
+              "column": 9
+            },
+            {
+              "title": "Debe aceptar la Alerta con delay",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 3115,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Click en el botón y esperar 5s para aceptar la alerta",
+                          "duration": 55
+                        }
+                      ],
+                      "startTime": "2025-12-10T02:43:53.241Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "ec0a06691cbd90937218-ce04a6e7ff71084352e4",
+              "file": "04-alerts.spec.js",
+              "line": 26,
+              "column": 9
+            },
+            {
+              "title": "Debe manejar el Prompt Box y verificar el resultado",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 1,
+                      "status": "passed",
+                      "duration": 2814,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Enviar texto al prompt y verificar",
+                          "duration": 44
+                        },
+                        {
+                          "title": "Verificar el resultado en la página",
+                          "duration": 6
+                        }
+                      ],
+                      "startTime": "2025-12-10T02:43:55.163Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "ec0a06691cbd90937218-865cefb84a1c88481aee",
+              "file": "04-alerts.spec.js",
+              "line": 40,
+              "column": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "05-bookstore.spec.js",
+      "file": "05-bookstore.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Test Suite: Book Store - Búsqueda",
+          "file": "05-bookstore.spec.js",
+          "line": 3,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Debe buscar un libro y verificar el resultado filtrado",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 3295,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Navegar a la página Book Store",
+                          "duration": 2333
+                        },
+                        {
+                          "title": "Realizar la búsqueda",
+                          "duration": 73
+                        },
+                        {
+                          "title": "Verificar el resultado filtrado",
+                          "duration": 69
+                        }
+                      ],
+                      "startTime": "2025-12-10T02:43:56.390Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "ef9aa2272f12f03adc85-89db20a2f52cd9290ae1",
+              "file": "05-bookstore.spec.js",
+              "line": 5,
+              "column": 9
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2025-12-10T02:43:43.717Z",
+    "duration": 16114.717999999999,
+    "expected": 7,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}
